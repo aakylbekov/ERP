@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration.ERP", "Integration.ERP\Integration.ERP.csproj", "{63D1D23F-9094-4AD2-A73B-7CA53C7D713A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integration.ERP.lib", "Integration.ERP.lib\Integration.ERP.lib.csproj", "{A3A16EB0-5421-40F8-8244-FF18E3F9E33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D1D23F-9094-4AD2-A73B-7CA53C7D713A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D1D23F-9094-4AD2-A73B-7CA53C7D713A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D1D23F-9094-4AD2-A73B-7CA53C7D713A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D1D23F-9094-4AD2-A73B-7CA53C7D713A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A16EB0-5421-40F8-8244-FF18E3F9E33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A16EB0-5421-40F8-8244-FF18E3F9E33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A16EB0-5421-40F8-8244-FF18E3F9E33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A16EB0-5421-40F8-8244-FF18E3F9E33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
